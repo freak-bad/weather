@@ -81,6 +81,6 @@ document.getElementById('dark-mode-toggle').addEventListener('click', function()
         backgroundImage.src = 'https://img.freepik.com/premium-photo/weather-icons-set-yellow-background-weather-forecast-concept_135892-707.jpg';
 
         
-        backgroundVideo.src = 'https://v1.pinimg.com/videos/mc/720p/28/e8/fb/28e8fbcfb99c4fe6d8d358dff19ed235.mp4'; // Replace with your light mode video URL
+        backgroundVideo.src = 'https://v1.pinimg.com/videos/mc/720p/28/e8/fb/28e8fbcfb99c4fe6d8d358dff19ed235.mp4'; 
     }
 });
